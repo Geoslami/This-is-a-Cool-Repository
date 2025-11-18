@@ -6,8 +6,8 @@ Markdown syntax is kind of weird, in my opinion.
 + For starters, you need one of these `#` to put headings in
 + *More* of them makes the heading *smaller*
 + Plus signs make lists, instead of things that make more sense
-  + like periods (.)
-  + or asterisks (*)
+  + like periods `.`
+  + or asterisks `*`
 + And **don't even get me started** on tables.
 
 And most importantly, do not click this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
